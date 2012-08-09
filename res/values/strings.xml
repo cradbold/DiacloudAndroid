@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diacloudTitle">Diacloud</string>
+    <string name="providersButtonLabel">Providers</string>
+    <string name="operationsButtonLabel">Operations</string>
+</resources>
