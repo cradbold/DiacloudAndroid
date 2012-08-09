@@ -1,6 +1,25 @@
+<<<<<<< HEAD
 .classpath
 .project
 .settings/
 project.properties
 /bin
 
+=======
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+>>>>>>> d28fd522039b9e851f1d536e370caf8b05dd5a19
